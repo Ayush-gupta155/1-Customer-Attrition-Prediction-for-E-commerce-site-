@@ -13,9 +13,9 @@ Dataset: [Download](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-cus
 
 Churn Prediction Analysis divided into several Stages which are as:
 
-Stage 0: Problem Statements, Goal, & Objective Analysis
-Stage 1: EDA, Insights & Visialization (Data Understanding)
-Stage 2: Data Processing (Data Cleansing & Feature Engineering)
+Stage 0: Problem Statements, Goal, & Objective Analysis\
+Stage 1: EDA, Insights & Visialization (Data Understanding)\
+Stage 2: Data Processing (Data Cleansing & Feature Engineering)\
 Stage 3: Machine Learning Modelling & Model Evaluation
 
 ## Stage 0:
